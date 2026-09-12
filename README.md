@@ -1,1 +1,2 @@
-# 2026-FP-AULESTIA-ANTONIETA_tarea13
+Antonieta Aulestia
+El código realiza el cálculo de el promedio de 2 notas
